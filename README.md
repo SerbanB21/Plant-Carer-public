@@ -1,4 +1,5 @@
-# Raspberry PI Pico 2W plant monitor 
+# Raspberry PI Pico 2W plant monitor
+## I have a private repository with more information such as reports if needed
 [Watch the Demonstration Video](<WhatsApp Video 2026-04-11 at 17.52.10 (1).mp4>)
 ## Group project| Group 3| Circuits and Systems Design| 2025-2026| TCD Dublin
  Automated Plant watering system based on a Pico 2W with Moisture, Humidity, Temperature, Gesture sensors with a self-triggering pump that waters the plant when the humidity, temperature, 
